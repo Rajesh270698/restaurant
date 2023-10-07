@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.img{
+    height: 25px ;
+    width: 100px;
+}
+. li nav-item{
+    margin-right: auto;
+}
+
+.btn-outline-danger
+{
+    background-color: yellow;
+    color: black;
+    width: 100px;
+}
+
+.h3
+{
+    text-align: center;
+    color: yellow;
+}
+
+.card-body{
+    height: 300px;
+    width: auto;
+}
+
+.h2
+{
+    text-align: center;
+}
+
+.col-lg-2 .card-body:hover {
+    background-color: #ffc107; /* Set your desired highlight color */
+}
+
+.col-md-6 mt-5 .h2{
+    color: #ffc107;
+}
+
