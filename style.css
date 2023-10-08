@@ -35,8 +35,10 @@
     text-align: center;
 }
 
-.col-lg-2 .card-body:hover {
+.card .card-body:hover {
     background-color: #ffc107; /* Set your desired highlight color */
+    -ms-grid-column-align: center;
+    
 }
 
 .col-md-6 mt-5 .h2{
